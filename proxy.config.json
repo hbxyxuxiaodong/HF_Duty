@@ -1,0 +1,6 @@
+{
+  "/HEB_STCS_REST":{
+    "target":"http://172.17.30.73:6080",
+    "secure": false
+  }
+}

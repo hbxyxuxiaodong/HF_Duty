@@ -1,0 +1,27 @@
+header {
+  display: flex;
+}
+header > img {
+  margin-right: auto;
+}
+header div {
+  display: flex;
+  align-items: center;
+  padding-right: 15px;
+}
+header div i {
+  color: #3A5F80;
+  font-size: 24px ;
+}
+header div > label {
+  color: #333;
+}
+hr {
+  background-color: #ddd;
+  height: 4px;
+  border: none;
+}
+section {
+  padding: 2rem 1.5rem 1.5rem 1.5rem;
+  background-color: #333;
+}
